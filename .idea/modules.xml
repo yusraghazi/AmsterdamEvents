@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ae-server/ae-server.iml" filepath="$PROJECT_DIR$/ae-server/ae-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frontend/.idea/amsterdamEvents.iml" filepath="$PROJECT_DIR$/frontend/.idea/amsterdamEvents.iml" />
+    </modules>
+  </component>
+</project>
